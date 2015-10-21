@@ -1,0 +1,49 @@
+<resources>
+    <string name="saludo">Bienvenido a mi agenda</string>
+    <string name="app_name">Mi agenda</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alta_usuarios">Nuevo contacto</string>
+    <string name="Name">Nombre</string>
+    <string name="Apell">Apellidos</string>
+    <string name="Adress">Dirección</string>
+    <string name="Telephone">Teléfono</string>
+    <string name="Email">email</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="Save">Guardar</string>
+    <string name="menu_editar">Editar contacto</string>
+    <string name="menu_visualizar">Ver datos</string>
+    <string name="menu_eliminar">Eliminar</string>
+    <string name="menu_llamar">Llamar</string>
+    <string name="menu_crear">NUEVO CONTACTO</string>
+    <string name="menu_email">Enviar correo</string>
+    <string name="menu_compartir">Compartir</string>
+    <string name="menu_buscar">Buscar contacto</string>
+    <string name="menu_traer_contactos">Importar contactos</string>
+    <string name="menu_borrar_todos">Borrar todos los contactos</string>
+    <string name="usuarios_editar_titulo">Editar Usuarios</string>
+    <string name="usuarios_crear_titulo">Nuevo contacto</string>
+    <string name="title_activity_modificar_usuarios">Modificar Usuarios</string>
+    <string name="lista_vacia">Sin Datos</string>
+    <string name="agenda_crear_titulo">Alta Nuevo contacto</string>
+    <string name="agenda_crear_confirmacion">Contacto creado</string>
+    <string name="agenda_editar_titulo">Editar Contacto</string>
+    <string name="agenda_editar_confirmacion">Contacto modificado</string>
+
+    <string name="agenda_eliminar_titulo">Eliminar contacto</string>
+    <string name="agenda_eliminar_todos_titulo">Eliminar todos los contactos</string>
+    <string name="agenda_eliminar_mensaje">¿Seguro que desea eliminar este contacto?</string>
+    <string name="agenda_eliminar_todos_mensaje">¿Seguro que desea eliminar todos los contactos de la agenda?</string>
+    <string name="todos">Contactos incluidos en tu agenda</string>
+    <string name="agenda_eliminar_confirmacion">Contacto eliminado</string>
+    <string name="agenda_eliminar_todos_confirmacion">Se han eliminado todos los contactos de la agenda</string>
+
+    <string name="agenda_texto_vacio">Para dar de alta un nuevo contacto, es obligatorio rellenar al menos el nombre y el teléfono.</string>
+    <string name="agenda_modificacion_vacia">El nombre del contacto está vacío. Revise el formulario.</string>
+    <string name="Observaciones">Observaciones</string>
+    <string name="title_activity_importar_contactos">Importar Contactos</string>
+    <string name="confirm_import">Importación de contactos finalizada</string>
+    <string name="title_activity_ver_usuarios">VerUsuarios</string>
+    <string name="title_activity_editar_usuarios">Editar Usuarios</string>
+
+</resources>
